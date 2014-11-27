@@ -1,0 +1,4 @@
+blog
+====
+
+Meteor sample app
