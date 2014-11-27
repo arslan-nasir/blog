@@ -6,3 +6,6 @@
 meteor-platform
 autopublish
 insecure
+aldeed:autoform
+mizzao:bootstrap-3
+
